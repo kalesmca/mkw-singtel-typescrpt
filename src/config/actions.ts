@@ -1,0 +1,4 @@
+export const GET_DOGS = "GET_DOGS";
+export const UPDATE_DOGS = "UPDATE_DOGS";
+export const UPDATE_SPINNER_STATUS = "UPDATE_SPINNER_STATUS";
+export const UPDATE_TOAST = "UPDATE_TOAST";

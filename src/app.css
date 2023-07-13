@@ -1,0 +1,33 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+}
+.header-container {
+  height: 100px;
+  width: 100%;
+  background-color: aliceblue;
+  position: fixed;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-title {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.body-container {
+  padding: 110px 10px;
+}
+
+.spinner-container {
+  position: fixed;
+  z-index: 12;
+  /* height: 200px; */
+  /* width: 200px; */
+  top: 200px;
+}
+.loading {
+  opacity: 0.5;
+}

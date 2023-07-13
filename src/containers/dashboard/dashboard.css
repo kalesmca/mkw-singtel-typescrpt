@@ -1,0 +1,29 @@
+.card-container {
+  margin: 5px;
+  float: left;
+}
+.card-img-top {
+  height: 170px !important;
+}
+.card-body {
+  height: 180px !important;
+}
+
+.card-body-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card-body-title {
+  font-weight: 300;
+  font-size: 12px;
+}
+.card-body-value {
+  font-weight: 400;
+  font-size: 12px;
+}
+.sort-title {
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+}
